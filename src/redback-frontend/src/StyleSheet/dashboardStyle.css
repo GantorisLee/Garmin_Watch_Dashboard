@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+*{
+    /*font-family: 'Lato', sans-serif;*/
+    /*font-family: 'Oswald', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+}
+
+.dataBoarder {
+    /*height:100vh;*/
+    /*width: 100vw;*/
+    /*border: #14ffff solid;*/
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.dataBoarder.chart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginBackground{
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    background-position: center; /* Center the image */
+    background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2010%2F07%2F28170650%2Ffb-interval-training-workouts.jpg&q=60");
+}
+
+.loginBoard {
+    border-radius: 10px;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    background: white;
+}
+
+#components-layout-demo-side .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+.dataHeader{
+    padding:1rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.dataText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+    font-weight: bold;
+    color: #319de5;
+}
+
+.spin{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tableHeader{
+    font-size: 1.2rem;
+    font-weight: bold;
+}

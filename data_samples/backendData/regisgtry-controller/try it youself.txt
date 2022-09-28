@@ -1,0 +1,4 @@
+consumerkey = "96afaae3-5af3-4ce5-9a83-94ef96f777aa";
+consumerSecret = "OUeTbGbtt3BzYXwVaB8NnvAXvGD33xnpySH";
+
+using this url: https://apis.garmin.com/tools/login

@@ -1,0 +1,22 @@
+/** 
+* Paste one or more documents here
+*/
+{
+  "durationInSeconds": 10,
+  "averageSpeedInMetersPerSecond": 0.233,
+  "averageHeartRateInBeatsPerMinute": 92,
+  "distanceInMeters": 2.42,
+  "activityName": "Running",
+  "userId": "5073e79f-df60-45dc-92f2-bc0ef300f1f0",
+  "deviceName": "forerunner935",
+  "averagePaceInMinutesPerKilometer": 71.53076,
+  "activityId": 8654408415,
+  "startTimeInSeconds": 1650191523,
+  "userAccessToken": "227a7c55-590d-498f-97ad-fb6ba3cb259f",
+  "startTimeOffsetInSeconds": 36000,
+  "maxPaceInMinutesPerKilometer": 6.8956003,
+  "maxHeartRateInBeatsPerMinute": 95,
+  "summaryId": "8654408415",
+  "maxSpeedInMetersPerSecond": 2.417,
+  "activityType": "RUNNING"
+}

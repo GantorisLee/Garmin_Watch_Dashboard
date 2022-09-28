@@ -1,0 +1,95 @@
+/** 
+* Paste one or more documents here
+*/
+{
+  "summary": {
+    "durationInSeconds": 10,
+    "averageSpeedInMetersPerSecond": 1.362,
+    "averageHeartRateInBeatsPerMinute": 88,
+    "distanceInMeters": 13.39,
+    "activityName": "Running",
+    "deviceName": "forerunner935",
+    "steps": 4,
+    "averageRunCadenceInStepsPerMinute": 25.09375,
+    "averagePaceInMinutesPerKilometer": 12.236906,
+    "activityId": 8654812566,
+    "startTimeInSeconds": 1650195177,
+    "startTimeOffsetInSeconds": 36000,
+    "maxPaceInMinutesPerKilometer": 4.8676014,
+    "maxHeartRateInBeatsPerMinute": 93,
+    "maxRunCadenceInStepsPerMinute": 138,
+    "maxSpeedInMetersPerSecond": 3.424,
+    "activityType": "RUNNING"
+  },
+  "activityId": 8654812566,
+  "userAccessToken": "227a7c55-590d-498f-97ad-fb6ba3cb259f",
+  "summaryId": "8654812566-detail",
+  "laps": [
+    {
+      "startTimeInSeconds": 1650195177
+    }
+  ],
+  "userId": "5073e79f-df60-45dc-92f2-bc0ef300f1f0",
+  "samples": [
+    {
+      "startTimeInSeconds": 1650195177,
+      "timerDurationInSeconds": 0,
+      "movingDurationInSeconds": 0,
+      "heartRate": 84,
+      "elevationInMeters": 33.20000076293945,
+      "speedMetersPerSecond": 0,
+      "clockDurationInSeconds": 0,
+      "stepsPerMinute": 0,
+      "airTemperatureCelcius": 32,
+      "totalDistanceInMeters": 0
+    },
+    {
+      "startTimeInSeconds": 1650195178,
+      "timerDurationInSeconds": 1,
+      "movingDurationInSeconds": 0,
+      "heartRate": 86,
+      "elevationInMeters": 33.20000076293945,
+      "speedMetersPerSecond": 0,
+      "clockDurationInSeconds": 1,
+      "stepsPerMinute": 0,
+      "airTemperatureCelcius": 32,
+      "totalDistanceInMeters": 0
+    },
+    {
+      "startTimeInSeconds": 1650195182,
+      "timerDurationInSeconds": 5,
+      "movingDurationInSeconds": 0,
+      "heartRate": 88,
+      "elevationInMeters": 31.799999237060547,
+      "speedMetersPerSecond": 0,
+      "clockDurationInSeconds": 5,
+      "stepsPerMinute": 0,
+      "airTemperatureCelcius": 32,
+      "totalDistanceInMeters": 0
+    },
+    {
+      "startTimeInSeconds": 1650195185,
+      "timerDurationInSeconds": 8,
+      "movingDurationInSeconds": 3,
+      "heartRate": 91,
+      "elevationInMeters": 31,
+      "speedMetersPerSecond": 3.4240000247955322,
+      "clockDurationInSeconds": 8,
+      "stepsPerMinute": 0,
+      "airTemperatureCelcius": 32,
+      "totalDistanceInMeters": 6.539999961853027
+    },
+    {
+      "startTimeInSeconds": 1650195187,
+      "timerDurationInSeconds": 10,
+      "movingDurationInSeconds": 5,
+      "heartRate": 93,
+      "elevationInMeters": 31,
+      "speedMetersPerSecond": 3.4240000247955322,
+      "clockDurationInSeconds": 10,
+      "stepsPerMinute": 0,
+      "airTemperatureCelcius": 32,
+      "totalDistanceInMeters": 13.390000343322754
+    }
+  ]
+}
